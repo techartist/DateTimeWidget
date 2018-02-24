@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DateTimeWidget</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="ok">OK</string>
+    <string name="from_is_after_to">Your from dates cannot be before your to dates.</string>
+    <string name="your_date_range_is">Your date range is %1$s to %2$s!</string>
+    <string name="error">Error</string>
+    <string name="results">Results</string>
+</resources>
